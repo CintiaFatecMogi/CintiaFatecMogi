@@ -1,4 +1,4 @@
-![banner](https://unichristus.edu.br/wp-content/uploads/2020/11/capa-analise-e-desen-sistemas-2.png)
+![banner](C:\Users\cinti\OneDrive\Imagens\Capturas de tela\banner.png)
 
 
 <h1 align="center">Olá 👋, eu sou Cíntia, aluna da Fatec Mogi das Cruzes/SP</h1>
