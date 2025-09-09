@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Cíntia, aluna da Fatec Mogi das Cruzes/SP</h1>
+<h1 align="center">Olá 👋, eu sou Cíntia, formada pela Fatec Mogi das Cruzes/SP</h1>
 - 📫 Meu endereço de e-mail **cintiadevblack@gmail.com**
 
 
